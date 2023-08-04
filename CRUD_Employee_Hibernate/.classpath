@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/antlr-3.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/dom4j-1.6.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/hibernate-commons-annotations-5.0.1.Final (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/hibernate-core-5.0.4.Final (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/hibernate-jpa-2.1-api-1.0.0.Final (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/javaee (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/javassist-3.17.1-GA (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/jboss-logging-3.3.0.Final (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmal A T/Desktop/Inmakes/Hibernate/jar files in hibernate connection/hibernate jar/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
